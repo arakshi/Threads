@@ -1,0 +1,8 @@
+{
+  "accounts": ["neilpatel", "alexhormozi", "sahillavingia"],
+  "post_urls": ["demo://sample"],
+  "topics": [
+    {"name": "marketing", "keywords": ["marketing", "growth", "funnel", "cta"]},
+    {"name": "saas", "keywords": ["saas", "churn", "onboarding", "retention"]}
+  ]
+}
